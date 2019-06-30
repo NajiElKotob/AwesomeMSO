@@ -11,6 +11,12 @@ Awesome Microsoft Office References and Tutorials
 * [Official Website](https://products.office.com/en-us/excel)
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 
+### Top YouTube Channels
+* [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
+* [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
+* [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
+* [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
+
 
 ### Formulas
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
