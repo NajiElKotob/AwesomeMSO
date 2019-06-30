@@ -32,6 +32,12 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 
+### Power Query (Get and Transform Data)
+* [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
+
+### Misc
+* [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
+
 
 ## PowerPoint
 * [Official Website](https://products.office.com/en-us/powerpoint)
