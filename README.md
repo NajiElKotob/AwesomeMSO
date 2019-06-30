@@ -44,6 +44,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
+* [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
 
 ### PM Articles
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
