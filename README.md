@@ -1,5 +1,5 @@
 # Awesome MSO
-Awesome Microsoft Office References and Tutorials
+Awesome Microsoft Office Learning Resources, References and Tutorials
 
 === Beta Awesome List ===
 
