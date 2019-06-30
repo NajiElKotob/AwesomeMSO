@@ -1,6 +1,16 @@
 # Awesome MSO
 Awesome Microsoft Office References and Tutorials
-[DRAFT]
+
+=== Beta Awesome List ===
+
+## Table of contents
+
+* [Word](#word)
+* [Excel](#excel)
+   * [Top YouTube Channels](#top-youtube-channels)
+* [PowerPoint](#PowerPoint)
+* [Microsoft Project](#microsoft-project)
+
 
 ## Word
 * [Official Website](https://products.office.com/en-us/word)
