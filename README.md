@@ -6,13 +6,16 @@ Awesome Microsoft Office References and Tutorials
 * [Official Website](https://products.office.com/en-us/word)
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
 
+
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel)
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 
+
 ### Formulas
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
+
 
 ## PowerPoint
 * [Official Website](https://products.office.com/en-us/powerpoint)
@@ -25,4 +28,7 @@ Awesome Microsoft Office References and Tutorials
 
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
+
+### PM Articles
+* [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
 
