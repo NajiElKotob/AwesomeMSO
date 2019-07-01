@@ -73,7 +73,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
   * [How Project schedules tasks: Behind the scenes](https://support.office.com/en-us/article/how-project-schedules-tasks-behind-the-scenes-df3431ab-8d8a-4047-afc6-a87b547dbac0)
 * Resources
   * [Distribute project work evenly (level resource assignments)](https://support.office.com/en-us/article/distribute-project-work-evenly-level-resource-assignments-59ee715d-4446-42c9-8756-4ea2a5a7e4a0)
-
+* Misc
+  * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
 
 ### Terms and Definitions
 * [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
