@@ -12,9 +12,11 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [PowerPoint](#PowerPoint)
 * [Microsoft Project](#microsoft-project)
 
+
 ## MSO
 * [Official Website](https://www.office.com/) - Microsoft Office
 * [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
+
 
 ## Word
 * [Official Website](https://products.office.com/en-us/word)
@@ -24,6 +26,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel)
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
+
 
 ### Top YouTube Channels
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
@@ -36,12 +39,15 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 
+
 ### Power Query (Get and Transform Data)
 * [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
+
 
 ### Charts
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
+
 
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
@@ -57,9 +63,16 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Resources, Timeline, Progress and more.
 
+
+## Tutorial
+* [Project 2013 videos and tutorials](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project and more.
+* [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
+
+
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
 * [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
+
 
 ### PM Articles
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
