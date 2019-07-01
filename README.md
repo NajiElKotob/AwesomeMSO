@@ -60,14 +60,17 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ## Microsoft Project
 * [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software)
-* [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
+
 
 
 
 ## Tutorial
+* [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 
+### Terms and Definitions
+* [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
 
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
