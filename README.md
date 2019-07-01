@@ -67,6 +67,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * [Add new tasks](https://support.office.com/en-us/article/add-new-tasks-6990803e-d0c7-48aa-94c9-ef14387f6792)
 * [Import Excel data into Project](https://support.office.com/en-us/article/import-excel-data-into-project-cb3fb91a-ad05-4506-b0af-8aa8b2247119)
+* [Split/Join a task](https://support.office.com/en-us/article/split-a-task-20c8581b-6266-45e3-af54-cc7c3b10deca)
 * [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * [How Project schedules tasks: Behind the scenes](https://support.office.com/en-us/article/how-project-schedules-tasks-behind-the-scenes-df3431ab-8d8a-4047-afc6-a87b547dbac0)
 
