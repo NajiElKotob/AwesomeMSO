@@ -19,12 +19,12 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 
 ## Word
-* [Official Website](https://products.office.com/en-us/word)
+* [Official Website](https://products.office.com/en-us/word) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
 
 
 ## Excel
-* [Official Website](https://products.office.com/en-us/excel)
+* [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 
 
@@ -54,12 +54,13 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 
 ## PowerPoint
-* [Official Website](https://products.office.com/en-us/powerpoint)
+* [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
 
 
 ## Microsoft Project
-* [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software)
+* [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software) - Microsoft
+* [Project help center](https://support.office.com/en-us/project)
 
 
 ## Tutorial
