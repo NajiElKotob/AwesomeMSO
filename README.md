@@ -77,15 +77,20 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * Misc
   * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
 
-### Terms and Definitions
-* [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
+
 
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
 * [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
 
 
-### PM Articles
+### PM Definitions and Articles
+#### Terms and Definitions
+* [Free slack (or free float)](https://www.wrike.com/project-management-guide/faq/what-is-free-slack-in-project-management/) - Free slack (or free float) refers to how much time a task can be delayed before a subsequent task.
+
+#### Articles
 * [The Triple Constraint: The Project Management Triangle of Scope, Time, and Cost](https://www.smartsheet.com/triple-constraint-triangle-theory) - The project management “triangle” of scope, time, and cost has been informing projects ever since the first team member was hired to accomplish a job. 
 * [Business Process Management](https://kissflow.com/bpm/business-process-management-overview/) - A Full Overview of Business Process Management
+
+
 
