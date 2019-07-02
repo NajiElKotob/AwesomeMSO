@@ -72,11 +72,11 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
   * [Import Excel data into Project](https://support.office.com/en-us/article/import-excel-data-into-project-cb3fb91a-ad05-4506-b0af-8aa8b2247119)
   * [Split/Join a task](https://support.office.com/en-us/article/split-a-task-20c8581b-6266-45e3-af54-cc7c3b10deca)
   * [How Project schedules tasks: Behind the scenes](https://support.office.com/en-us/article/how-project-schedules-tasks-behind-the-scenes-df3431ab-8d8a-4047-afc6-a87b547dbac0)
+  * [Change the task type for more accurate scheduling](https://support.office.com/en-us/article/change-the-task-type-for-more-accurate-scheduling-b0b969ad-45bc-4e9e-8967-435587548a72)
 * Resources
   * [Distribute project work evenly (level resource assignments)](https://support.office.com/en-us/article/distribute-project-work-evenly-level-resource-assignments-59ee715d-4446-42c9-8756-4ea2a5a7e4a0)
 * Misc
   * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
-
 
 
 ### Microsoft Project Server (PWA)
