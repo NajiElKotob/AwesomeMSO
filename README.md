@@ -61,6 +61,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Microsoft Project
 * [Official Website](https://products.office.com/en-us/project/project-and-portfolio-management-software) - Microsoft
 * [Project help center](https://support.office.com/en-us/project)
+* [What's new in Project 2019](https://support.office.com/en-us/article/what-s-new-in-project-2019-6be41c8a-c4b2-409a-9ef7-d250377ad3b7)
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
 ## Tutorial
