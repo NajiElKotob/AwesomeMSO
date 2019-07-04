@@ -64,6 +64,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
 ### Top YouTube Channels :tv: (MS Project)
+* [MS Project 2016 Tutorial](https://www.youtube.com/watch?v=6CpDz7fzMmo&list=PLzj7TwUeMQ3gEx7_OYMI-PM_2ofCiVSq9) - Simon Sez IT
+* [Microsoft Project 2016 advanced training tutorial](https://www.youtube.com/watch?v=k8xixFtwv8E&list=PLzj7TwUeMQ3ijsaeOSiLehF1bquXCxmHv) - Simon Sez IT
 * [MS Project 2013](https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM) - Tutorials Point
 
 
