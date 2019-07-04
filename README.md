@@ -8,7 +8,6 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [MSO](#mso)
 * [Word](#word)
 * [Excel](#excel)
-   * [Top YouTube Channels](#top-youtube-channels)
 * [PowerPoint](#PowerPoint)
 * [Microsoft Project](#microsoft-project)
 
@@ -28,7 +27,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 
 
-### Top YouTube Channels
+### Top YouTube Channels :tv: (Excel)
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
@@ -64,7 +63,11 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [What's new in Project 2019](https://support.office.com/en-us/article/what-s-new-in-project-2019-6be41c8a-c4b2-409a-9ef7-d250377ad3b7)
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
-## Tutorial
+### Top YouTube Channels :tv: (MS Project)
+* [MS Project 2013](https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM) - Tutorials Point
+
+
+### Tutorial
 * [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
 * [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * Calendar
