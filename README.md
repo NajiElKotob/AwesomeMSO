@@ -64,6 +64,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [What’s new in Project 2016](https://www.microsoft.com/en-us/microsoft-365/blog/2015/09/30/whats-new-in-project-2016/) - Project team
 
 ### Top YouTube Channels :tv: (MS Project)
+* [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * [MS Project 2016 Tutorial](https://www.youtube.com/watch?v=6CpDz7fzMmo&list=PLzj7TwUeMQ3gEx7_OYMI-PM_2ofCiVSq9) - Simon Sez IT
 * [Microsoft Project 2016 advanced training tutorial](https://www.youtube.com/watch?v=k8xixFtwv8E&list=PLzj7TwUeMQ3ijsaeOSiLehF1bquXCxmHv) - Simon Sez IT
 * [MS Project 2013](https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM) - Tutorials Point
@@ -71,7 +72,6 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ### Tutorial
 * [Project Training](https://support.office.com/en-ie/article/project-training-63f1db89-1ee0-4113-bedc-03fc5ec6223a)
-* [Project 2013 videos and tutorials (Microsoft)](https://support.office.com/en-ie/article/project-2013-videos-and-tutorials-af7d1e17-5fa7-421f-a452-9bbe2cd7b082) - Get started with Project, Resources, Timeline, Progress and more.
 * Calendar
   * [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * Tasks
