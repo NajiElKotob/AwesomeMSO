@@ -68,6 +68,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [MS Project 2016 Tutorial](https://www.youtube.com/watch?v=6CpDz7fzMmo&list=PLzj7TwUeMQ3gEx7_OYMI-PM_2ofCiVSq9) - Simon Sez IT
 * [Microsoft Project 2016 advanced training tutorial](https://www.youtube.com/watch?v=k8xixFtwv8E&list=PLzj7TwUeMQ3ijsaeOSiLehF1bquXCxmHv) - Simon Sez IT
 * [MS Project 2013](https://www.youtube.com/watch?v=AgEIcyvnsCE&list=PLWPirh4EWFpFQimHjZvhuAN4GF6XYC-qM) - Tutorials Point
+   * [Quick Guide](https://www.tutorialspoint.com/ms_project/ms_project_quick_guide.htm)
 * [Microsoft Project Tips & Tricks (Video ~1 hour)](https://www.youtube.com/watch?v=kh5tAIWRXIs) - Ellen Lehnert
 
 ### Tutorial
