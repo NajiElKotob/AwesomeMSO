@@ -77,6 +77,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
   * [Create a new base calendar](https://support.office.com/en-us/article/create-a-new-base-calendar-674cb99d-f2b0-4e85-b07e-84105d540dcb)
 * Tasks
   * [Add new tasks](https://support.office.com/en-us/article/add-new-tasks-6990803e-d0c7-48aa-94c9-ef14387f6792)
+  * [Change a task duration](https://support.office.com/en-us/article/change-a-task-duration-0c551218-e543-4a5a-80f5-363c5c7c4e49)
   * [Import Excel data into Project](https://support.office.com/en-us/article/import-excel-data-into-project-cb3fb91a-ad05-4506-b0af-8aa8b2247119)
   * [Split/Join a task](https://support.office.com/en-us/article/split-a-task-20c8581b-6266-45e3-af54-cc7c3b10deca)
   * [How Project schedules tasks: Behind the scenes](https://support.office.com/en-us/article/how-project-schedules-tasks-behind-the-scenes-df3431ab-8d8a-4047-afc6-a87b547dbac0)
@@ -89,6 +90,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
    * [Create a custom basic report](https://support.office.com/en-us/article/create-a-custom-basic-report-3f6f36be-da79-4142-8548-1a6812de1326)
 * Custom Fields
    * [Create a custom field](https://support.office.com/en-us/article/create-a-custom-field-839d206f-b314-48f5-aa06-79140db93b94)
+   * [Percent (%) Allocation fields (Resources)](https://support.office.com/en-us/article/percent-allocation-fields-b8d25634-1bf4-4d29-b568-7f637f37a46f)
 * Misc
   * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
   
