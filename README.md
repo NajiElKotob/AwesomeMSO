@@ -85,13 +85,14 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
   * [Using Hammock Tasks](https://www.mpug.com/articles/dos-and-donts-using-hammock-tasks/) - A hammock task is a task that has a variable duration. 
 * Resources
   * [Distribute project work evenly (level resource assignments)](https://support.office.com/en-us/article/distribute-project-work-evenly-level-resource-assignments-59ee715d-4446-42c9-8756-4ea2a5a7e4a0)
-* Misc
-  * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
 * Reporting
    * [Create a custom basic report](https://support.office.com/en-us/article/create-a-custom-basic-report-3f6f36be-da79-4142-8548-1a6812de1326)
 * Custom Fields
    * [Create a custom field](https://support.office.com/en-us/article/create-a-custom-field-839d206f-b314-48f5-aa06-79140db93b94)
-
+* Misc
+  * [Project Shortcuts](https://blogs.msdn.microsoft.com/project/2008/08/08/project-shortcuts/)
+  
+  
 ### Microsoft Project Server (PWA)
 * [Project Server Documentation](https://docs.microsoft.com/en-us/project/project-server-2013-and-2016) - Learn how to plan, deploy, manage users in Project Server.
 * [Managing Project Web App Site Permissions in Project Online and Project Server 2013](https://www.mpug.com/articles/managing-project-web-app-site-permissions-project-online-project-server-2013/) - Terry Kneeburg
