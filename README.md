@@ -86,6 +86,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
   * [Using Hammock Tasks](https://www.mpug.com/articles/dos-and-donts-using-hammock-tasks/) - A hammock task is a task that has a variable duration. 
 * Resources
   * [Distribute project work evenly (level resource assignments)](https://support.office.com/en-us/article/distribute-project-work-evenly-level-resource-assignments-59ee715d-4446-42c9-8756-4ea2a5a7e4a0)
+  * [Fixed Duration and Effort Driven Task in Project 2013](https://www.mpug.com/articles/fixed-duration-and-effort-driven-task-in-project-2013/)
 * Reporting
    * [Create a custom basic report](https://support.office.com/en-us/article/create-a-custom-basic-report-3f6f36be-da79-4142-8548-1a6812de1326)
 * Custom Fields
