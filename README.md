@@ -5,14 +5,14 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ## Table of contents
 
-* [MSO](#mso)
+* [Microsoft Office](#microsoft-office)
 * [Word](#word)
 * [Excel](#excel)
 * [PowerPoint](#PowerPoint)
 * [Microsoft Project](#microsoft-project)
 
 
-## MSO
+## Microsoft Office
 * [Official Website](https://www.office.com/) - Microsoft Office
 * [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
 
