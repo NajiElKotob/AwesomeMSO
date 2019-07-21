@@ -16,6 +16,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Official Website](https://www.office.com/) - Microsoft Office
 * [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
 
+-----
 
 ## Word
 * [Official Website](https://products.office.com/en-us/word) - Microsoft
@@ -32,7 +33,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Save and print](https://support.office.com/en-us/article/save-a-document-b7f55d8c-d714-4892-8fde-853a82419027?wt.mc_id=otc_word) - Save, Print, Envelop, Labels and Mailing List.
 * [Share and coauthor](https://support.office.com/en-us/article/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354?wt.mc_id=otc_word) - Share, Collaborate, Comment and Track.
 
-
+-----
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
@@ -62,12 +63,12 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
 
-
+-----
 ## PowerPoint
 * [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
 
-
+-----
 ## Microsoft Project
 * [Awesome Project Management](https://github.com/NajiElKotob/Awesome-ProjectManagement) - The previous list of references and resources have been moved to that page. :star2:
 
