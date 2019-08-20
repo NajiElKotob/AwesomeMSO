@@ -38,6 +38,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Insert tables, pictures, and watermarks](https://support.office.com/en-us/article/insert-a-table-a138f745-73ef-4879-b99a-2f3d38be612a?wt.mc_id=otc_word) - Table, Pictures, Icons, WordArts and Watermark.
 * [Save and print](https://support.office.com/en-us/article/save-a-document-b7f55d8c-d714-4892-8fde-853a82419027?wt.mc_id=otc_word) - Save, Print, Envelop, Labels and Mailing List.
 * [Share and coauthor](https://support.office.com/en-us/article/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354?wt.mc_id=otc_word) - Share, Collaborate, Comment and Track.
+* [Mail merge using an Excel spreadsheet](https://support.office.com/en-us/article/Mail-merge-using-an-Excel-spreadsheet-858C7D7F-5CC0-4BA1-9A7B-0A948FA3D7D3)
 
 -----
 ## Excel
