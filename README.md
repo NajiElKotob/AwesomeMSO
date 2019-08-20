@@ -23,6 +23,10 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Word templates](https://templates.office.com/en-US/templates-for-Word)
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
 
+### Top YouTube Channels :tv: (Word)
+* [Microsoft Word 2016](https://www.youtube.com/watch?v=PVH-Sg0mecg&list=PLpQQipWcxwt-CU7fh1_3v-STktoEc0tsL) - GCFLearnFree.org
+
+
 ### Training
 * [What is Word?](https://support.office.com/en-us/article/what-is-word-aee9c7ff-f9c5-415f-80dc-103ad5e344d7?wt.mc_id=otc_word)
 * [Quick Start](https://support.office.com/en-us/article/create-a-document-in-word-aafc163a-3a06-45a9-b451-cb7250dcbaa1?wt.mc_id=otc_word) - Create, Save, Edit and Collaborate
