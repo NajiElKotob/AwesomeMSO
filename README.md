@@ -26,6 +26,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ### Top YouTube Channels :tv: (Word)
 * [Microsoft Word 2016](https://www.youtube.com/watch?v=PVH-Sg0mecg&list=PLpQQipWcxwt-CU7fh1_3v-STktoEc0tsL) - GCFLearnFree.org
 * [Word 2016 Tutorial Complete for Professionals and Students](https://www.youtube.com/watch?v=IaiZc0jomz4) - Sali Kaceli
+* [Top 25 Word 2016 Tips and Tricks](https://www.youtube.com/watch?v=EYu3yyzdvck) - Sele Training
 
 
 ### Training
