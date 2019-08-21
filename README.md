@@ -40,6 +40,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Share and coauthor](https://support.office.com/en-us/article/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354?wt.mc_id=otc_word) - Share, Collaborate, Comment and Track.
 * [Mail merge using an Excel spreadsheet](https://support.office.com/en-us/article/Mail-merge-using-an-Excel-spreadsheet-858C7D7F-5CC0-4BA1-9A7B-0A948FA3D7D3)
 
+### Tutorials
+* [Microsoft Word 2013 Tutorial (NC State University)](https://it.chass.ncsu.edu/tutorials/msword/index.php) - The purpose of this tutorial is to provide information on how to use some of the most commonly used features of Microsoft Word 2013 for Windows. 
+
 -----
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
