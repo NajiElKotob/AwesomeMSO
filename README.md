@@ -17,11 +17,11 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Official Website](https://www.office.com/) - Microsoft Office
 * [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
 
+-----
 ## Special Tutorials and Resources
 * [TypingClub](https://www.typingclub.com/) - Learn Touch Typing for free!
 
 -----
-
 ## Word
 * [Official Website](https://products.office.com/en-us/word) - Microsoft
 * [Word templates](https://templates.office.com/en-US/templates-for-Word)
