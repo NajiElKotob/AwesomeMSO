@@ -6,6 +6,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Table of contents
 
 * [Microsoft Office](#microsoft-office)
+* [Special Tutorials and Resources](#special-tutorials-and-resources)
 * [Word](#word)
 * [Excel](#excel)
 * [PowerPoint](#PowerPoint)
@@ -15,6 +16,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Microsoft Office
 * [Official Website](https://www.office.com/) - Microsoft Office
 * [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
+
+## Special Tutorials and Resources
+* [TypingClub](https://www.typingclub.com/) - Learn Touch Typing for free!
 
 -----
 
