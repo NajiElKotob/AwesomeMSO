@@ -20,6 +20,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Special Tutorials and Resources
 * [TypingClub](https://www.typingclub.com/) - Learn Touch Typing for free!
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone, find Free Vectors, Stock Photos, PSD and Icons.
+* [Flat Icon](https://www.flaticon.com/) - Use more than 1,427,500  Selection icons without crediting the author.
 
 -----
 ## Word
