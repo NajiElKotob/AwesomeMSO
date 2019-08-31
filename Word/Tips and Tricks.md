@@ -1,4 +1,4 @@
-# Word Tips and Tricks 
+# Word - Tips and Tricks 
 1. Dummy Text (rand and lorem functions)
 1. Select Text (Word, Paragraph, Line; Copy, Cut)
 1. Calculate command
