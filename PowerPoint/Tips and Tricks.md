@@ -6,6 +6,7 @@
 1. Quick Access Toolbar
 1. Filler Text
 1. Chart Animation
+1. Hide background graphics (Format Background)
 1. Slide Show Tricks
 1. Gridlines & Guides
 1. Recover Files
