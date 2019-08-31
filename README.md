@@ -1,7 +1,6 @@
 # Awesome MSO
 Awesome Microsoft Office Learning Resources, References and Tutorials
 
-=== Beta Awesome List ===
 
 ## Table of contents
 
