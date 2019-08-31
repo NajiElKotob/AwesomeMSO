@@ -18,6 +18,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 -----
 ## Special Tutorials and Resources
+* [Largest FREE Microsoft eBook Giveaway! (Microsoft Developer Network)](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/) - Eric Ligman
 * [TypingClub](https://www.typingclub.com/) - Learn Touch Typing for free!
 * [Freepik](https://www.freepik.com/) - Graphic resources for everyone, find Free Vectors, Stock Photos, PSD and Icons.
 * [Flat Icon](https://www.flaticon.com/) - Use more than 1,427,500  Selection icons without crediting the author.
