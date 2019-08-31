@@ -84,6 +84,23 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
 
+### Top YouTube Channels :tv: (PowerPoint)
+* [A Complete Tutorial on Using PowerPoint](https://www.youtube.com/watch?v=lbc1HX8Jccw) - Sali Kaceli
+
+### Training
+* [PowerPoint for Windows training](https://support.office.com/en-us/article/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787?wt.mc_id=otc_home&ui=en-US&rs=en-US&ad=US)
+* [Quick Start](https://support.office.com/en-us/article/create-a-presentation-in-powerpoint-422250f8-5721-4cea-92cc-202fa7b89617?wt.mc_id=otc_powerpoint)
+* [Intro to PowerPoint](https://support.office.com/en-us/article/video-what-is-powerpoint-5f9cc860-d199-4d85-ad1b-4b74018acf5b?wt.mc_id=otc_powerpoint)
+* [Slides & layouts](https://support.office.com/en-us/article/what-is-a-slide-master-b9abb2a0-7aef-4257-a14e-4329c904da54?wt.mc_id=otc_powerpoint)
+* [Text & tables](https://support.office.com/en-us/article/insert-wordart-c5070583-1ebe-4dc4-a41f-5e3729adce54?wt.mc_id=otc_powerpoint)
+* [Pictures & graphics](https://support.office.com/en-us/article/insert-a-picture-in-powerpoint-5f7368d2-ee94-4b94-a6f2-a663646a07e1?wt.mc_id=otc_powerpoint)
+* [Present slideshows](https://support.office.com/en-us/article/start-the-presentation-and-see-your-notes-in-presenter-view-4de90e28-487e-435c-9401-eb49a3801257?wt.mc_id=otc_powerpoint)
+* [Animation, video & audio](https://support.office.com/en-us/article/add-change-or-remove-transitions-between-slides-3f8244bf-f893-4efd-a7eb-3a4845c9c971?wt.mc_id=otc_powerpoint)
+* [Share & co-author](https://support.office.com/en-us/article/add-change-hide-or-delete-comments-in-a-presentation-a8f071fa-6e5d-4c37-a025-1cf48a76eb38?wt.mc_id=otc_powerpoint)
+
+### Tutorials
+* [Top 20 PowerPoint 2016 Tips and Tricks (Video)](https://www.youtube.com/watch?v=DI5LNVts9nc) - Sele Training
+
 -----
 ## Microsoft Project
 * [Awesome Project Management](https://github.com/NajiElKotob/Awesome-ProjectManagement) - The previous list of references and resources have been moved to that page. :star2:
