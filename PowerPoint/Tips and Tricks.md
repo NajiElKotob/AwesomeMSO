@@ -1,6 +1,7 @@
 # PowerPoint - Tips and Tricks
 1. Dummy Text (rand and lorem functions)
 1. Morph Transition
+1. Slide show (F5, Shift+F5 and ##)
 1. Compress Media
 1. Quick Access Toolbar
 1. Filler Text
