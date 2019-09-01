@@ -13,3 +13,4 @@
 1. Reveal formatting...
 1. Embedding fonts
 1. Use wildcards in Find and Replace
+1. Learning Tools (View > Immersive)
