@@ -12,3 +12,4 @@
 1. Spike (Ctrl-F3 in Windows or Command-F3 on a Mac for cut and Ctrl-Shift-F3 or Command-Shift-F3 for paste) - The Spike is an extended clipboard feature of Microsoft Word.
 1. Reveal formatting...
 1. Embedding fonts
+1. Use wildcards in Find and Replace
