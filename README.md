@@ -100,6 +100,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Present slideshows](https://support.office.com/en-us/article/start-the-presentation-and-see-your-notes-in-presenter-view-4de90e28-487e-435c-9401-eb49a3801257?wt.mc_id=otc_powerpoint)
 * [Animation, video & audio](https://support.office.com/en-us/article/add-change-or-remove-transitions-between-slides-3f8244bf-f893-4efd-a7eb-3a4845c9c971?wt.mc_id=otc_powerpoint)
 * [Share & co-author](https://support.office.com/en-us/article/add-change-hide-or-delete-comments-in-a-presentation-a8f071fa-6e5d-4c37-a025-1cf48a76eb38?wt.mc_id=otc_powerpoint)
+* [Use the Morph transition in PowerPoint](https://support.office.com/en-us/article/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 
 ### Tutorials
 * [Top 20 PowerPoint 2016 Tips and Tricks (Video)](https://www.youtube.com/watch?v=DI5LNVts9nc) - Sele Training
