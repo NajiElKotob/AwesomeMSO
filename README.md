@@ -2,9 +2,6 @@
 Awesome Microsoft Office Learning Resources, References and Tutorials
 
 
-* [MSO PwC Outlines](http://bigpolygonserver.net/hosting/pwc/mso/MSO_Outlines_PwC.zip) :star:
-
-
 ## Table of contents
 
 * [Microsoft Office](#microsoft-office)
