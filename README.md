@@ -104,6 +104,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Share & co-author](https://support.office.com/en-us/article/add-change-hide-or-delete-comments-in-a-presentation-a8f071fa-6e5d-4c37-a025-1cf48a76eb38?wt.mc_id=otc_powerpoint)
 #### Advanced Training
 * [Use the Morph transition in PowerPoint](https://support.office.com/en-us/article/use-the-morph-transition-in-powerpoint-8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
+* [Rehearse timings for a slide show (Video)](https://support.office.com/en-us/article/video-rehearse-timings-for-a-slide-show-4fcac25a-d244-4047-b340-c3d683c3f549)
 
 
 -----
