@@ -70,17 +70,17 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 
 
-### Power Query (Get and Transform Data)
-* [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
-
-
 ### Charts
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 
 
+### Power Query (Get and Transform Data)
+* [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
+
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
+* [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
 
 -----
 ## PowerPoint
