@@ -49,6 +49,11 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ### Tutorials
 * [Microsoft Word 2013 Tutorial (NC State University)](https://it.chass.ncsu.edu/tutorials/msword/index.php) - The purpose of this tutorial is to provide information on how to use some of the most commonly used features of Microsoft Word 2013 for Windows. 
 
+### Exams (Word)
+* [MO-100: Microsoft Word (Word 2019)](https://www.microsoft.com/en-us/learning/exam-MO-100.aspx)
+* [77-725: Word 2016: Core Document Creation, Collaboration and Communication](https://www.microsoft.com/en-us/learning/exam-77-725.aspx)
+* [77-726: Word 2016 Expert: Creating Documents for Effective Communication](https://www.microsoft.com/en-us/learning/exam-77-726.aspx)
+
 -----
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
@@ -79,8 +84,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
 * [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
 
-### Exams
-* [MO-200: Microsoft Excel (Excel and Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
+### Exams (Excel)
+* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
 * [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
@@ -109,6 +114,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Rehearse timings for a slide show (Video)](https://support.office.com/en-us/article/video-rehearse-timings-for-a-slide-show-4fcac25a-d244-4047-b340-c3d683c3f549)
 * [Use Zoom for PowerPoint to bring your presentation to life](https://support.office.com/en-us/article/use-zoom-for-powerpoint-to-bring-your-presentation-to-life-9d6c58cd-2125-4d29-86b1-0097c7dc47d7?wt.mc_id=otc_tips)
 
+### Exams (PowerPoint)
+* [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
+* [77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills](https://www.microsoft.com/en-us/learning/exam-77-729.aspx)
 
 -----
 ## Microsoft Project
