@@ -77,8 +77,23 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 
 
-### Power Query (Get and Transform Data)
-* [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
+### Power Suite (Modern Excel)
+* Power Query (Get and Transform Data)
+   * Extracts data from various sources. The user can cleanse and format the data and save this procedure; the procedure can then be repeatedly performed each time the data is refreshed.
+   * [Getting Started with Get & Transform in Excel](https://support.office.com/en-us/article/getting-started-with-get-transform-in-excel-a8310388-2a12-438c-9d29-c6d29cb8df6a)
+   * [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
+* Power Pivot
+   * Handle large datasets in a highly compressed format, manage relationships, perform complex calculations, and display output from different tables into a single-view PivotTable.
+   * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
+* Power View
+   * Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting. 
+   * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
+* Power Map
+   * Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
+   * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
+* Power BI
+   * [Awesome Power BI](http://bit.ly/AwesomePowerBI) - Resources and References
+   
 
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
