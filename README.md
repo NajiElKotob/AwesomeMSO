@@ -8,6 +8,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Special Tutorials and Resources](#special-tutorials-and-resources)
 * [Word](#word)
 * [Excel](#excel)
+   * [Power Suite (Modern Excel)](#Power-Suite-Modern-Excel)
 * [PowerPoint](#PowerPoint)
 * [Microsoft Project](#microsoft-project)
 
