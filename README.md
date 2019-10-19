@@ -15,7 +15,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ## Microsoft Office
 * [Official Website](https://www.office.com/) - Microsoft Office
-* [Browse Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=office)
+* [Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=office)
+    * [Certiport Authorized Testing Center Locator](http://portal.certiport.com/Locator)
+      * [Certification Testing at New Horizons (Lebanon)](https://www.newhorizons.com.lb/exams/certification-testing)
 
 -----
 ## General Knowledge
