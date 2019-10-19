@@ -15,9 +15,12 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ## Microsoft Office
 * [Official Website](https://www.office.com/) - Microsoft Office
-* [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
+* [Browse Certifications and Exams](https://docs.microsoft.com/en-us/learn/certifications/browse/?resource_type=certification&products=office)
 
 -----
+## General Knowledge
+* [Ribbons](https://docs.microsoft.com/en-us/windows/desktop/uxguide/cmd-ribbons) - Ribbons are the modern way to help users find, understand, and use commands efficiently and directly.
+
 ## Special Tutorials and Resources
 * [Largest FREE Microsoft eBook Giveaway! (Microsoft Developer Network)](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/) - Eric Ligman
 * [TypingClub](https://www.typingclub.com/) - Learn Touch Typing for free!
