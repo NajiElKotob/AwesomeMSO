@@ -9,6 +9,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Word](#word)
 * [Excel](#excel)
    * [Power Suite (Modern Excel)](#Power-Suite-Modern-Excel)
+* [Power Suite (Modern Excel)](#Power-Suite-Modern-Excel)
 * [PowerPoint](#PowerPoint)
 * [Microsoft Project](#microsoft-project)
 
@@ -82,8 +83,21 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 
+### Tutorials
+* [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
+* [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
 
-### Power Suite (Modern Excel)
+### Misc
+* [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
+* [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
+
+### Exams (Excel)
+* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
+* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
+* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
+
+-----
+## Power Suite (Modern Excel)
 * Power Query (Get and Transform Data)
    * Extracts data from various sources. The user can cleanse and format the data and save this procedure; the procedure can then be repeatedly performed each time the data is refreshed.
    * [Getting Started with Get & Transform in Excel](https://support.office.com/en-us/article/getting-started-with-get-transform-in-excel-a8310388-2a12-438c-9d29-c6d29cb8df6a)
@@ -99,16 +113,6 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
 * Power BI
    * [Awesome Power BI](http://bit.ly/AwesomePowerBI) - Resources and References
-   
-
-### Misc
-* [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
-* [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
-
-### Exams (Excel)
-* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
-* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
-* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
 -----
 ## PowerPoint
