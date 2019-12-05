@@ -114,6 +114,10 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
    * [Awesome Power BI](http://bit.ly/AwesomePowerBI) - Resources and References
 
 -----
+## Data Mining Model (Excel)
+* [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
+
+-----
 ## PowerPoint
 * [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
