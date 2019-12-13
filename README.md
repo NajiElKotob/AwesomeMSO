@@ -90,6 +90,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
 * [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
+* [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
 
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
