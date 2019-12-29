@@ -93,6 +93,10 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
 * [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
 
+### Statistics and Data Analytics
+* [Linear regression analysis in Excel](https://www.ablebits.com/office-addins-blog/2018/08/01/linear-regression-analysis-excel/)
+* [How to use Excel in seasonal forecasting](https://www.fm-magazine.com/news/2017/dec/how-to-use-excel-in-seasonal-forecasting-201718012.html)
+
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
