@@ -96,6 +96,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ### Statistics and Data Analytics
 * [Linear regression analysis in Excel](https://www.ablebits.com/office-addins-blog/2018/08/01/linear-regression-analysis-excel/)
 * [How to use Excel in seasonal forecasting](https://www.fm-magazine.com/news/2017/dec/how-to-use-excel-in-seasonal-forecasting-201718012.html)
+* [Create a forecast in Excel for Windows](https://support.office.com/en-us/article/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - Microsoft Office
 
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
