@@ -99,6 +99,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [How to use Excel in seasonal forecasting](https://www.fm-magazine.com/news/2017/dec/how-to-use-excel-in-seasonal-forecasting-201718012.html)
 * [Create a forecast in Excel for Windows](https://support.office.com/en-us/article/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - Microsoft Office
 
+### VBA
+* [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
+
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
