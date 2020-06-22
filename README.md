@@ -84,6 +84,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 
+### PivotTable and PivotChart
+* [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
+
 ### Tutorials
 * [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
 * [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
