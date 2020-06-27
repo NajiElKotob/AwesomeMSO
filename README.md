@@ -66,6 +66,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 ## Excel
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
+* [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
+
 
 
 ### Top YouTube Channels :tv: (Excel)
