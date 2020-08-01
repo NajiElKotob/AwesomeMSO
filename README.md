@@ -88,6 +88,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ### PivotTable and PivotChart
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
+* [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
 
 ### Tutorials
 * [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
