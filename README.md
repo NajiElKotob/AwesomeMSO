@@ -106,6 +106,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Create a forecast in Excel for Windows](https://support.office.com/en-us/article/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - Microsoft Office
 
 ### VBA
+* [Excel VBA Beginner Tutorial (Video)](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
 * [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
 
 ### Exams (Excel)
