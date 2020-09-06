@@ -1,3 +1,4 @@
 # Excel Shortcuts
 
-* ALT + =  ........... AUTO SUM
+* ALT + =     ........... AutoSum
+* CTRL + F1   ........... Minimize the Ribbon
