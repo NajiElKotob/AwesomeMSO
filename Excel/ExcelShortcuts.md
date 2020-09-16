@@ -1,5 +1,8 @@
 # Excel Shortcuts
 
-* ALT + =     ........... AutoSum
-* CTRL + F1   ........... Minimize the Ribbon
-* ALT + F10   ........... Selection Pane
+<pre>
+• ALT + =       ........... AutoSum
+• CTRL + F1     ........... Minimize the Ribbon
+• ALT + F10     ........... Selection Pane
+• CTRL + Space  ........... Select full column(s) of the active cell(s)
+</pre>
