@@ -8,4 +8,5 @@
 • CTRL + . (dot)    ........... Jump inside the corners of the selected area 
 • CTRL + ;          ........... Current Date
 • CTRL + SHIFT + ;  ........... Current Time
+• F9 (Edit mode)    ........... Formula's value
 </pre>
