@@ -9,4 +9,5 @@
 • CTRL + ;          ........... Current Date
 • CTRL + SHIFT + ;  ........... Current Time
 • F9 (Edit mode)    ........... Formula's value
+• F3                ........... Paste Name and Paste List
 </pre>
