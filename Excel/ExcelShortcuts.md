@@ -10,4 +10,5 @@
 • CTRL + SHIFT + ;  ........... Current Time
 • F9 (Edit mode)    ........... Formula's value
 • F3                ........... Paste Name and Paste List
+• *, ?, ~           ........... Wildcards; * = any number of characters, ? = single character, ~ = escape character. E.g. count any text ends with Division, COUNTIF(A:A, "*Division") 
 </pre>
