@@ -94,6 +94,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
 * [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
 * [Applying the Pareto Principle in Financial Analysis](https://magnimetrics.com/pareto-principle-in-financial-analysis/) - Dobromir Dikov
+* [Interactive Excel Web App Dashboard (Video)](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
 
 ### Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
