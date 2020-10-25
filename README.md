@@ -110,6 +110,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Excel VBA Beginner Tutorial (Video)](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
 * [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
 
+### Performance
+* [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
+
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
