@@ -118,6 +118,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
 * [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
+### Why Excel 💚
+* [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
+
 -----
 ## Power Suite (Modern Excel)
 * Power Query (Get and Transform Data)
