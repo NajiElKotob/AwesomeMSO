@@ -137,6 +137,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * Power View
    * Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting. 
    * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
+   * [Charts and other visualizations in Power View](https://support.microsoft.com/en-us/office/charts-and-other-visualizations-in-power-view-141bd462-9853-4973-ac37-842e8345f51e)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
 * Power Map
    * Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
