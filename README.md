@@ -135,13 +135,14 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
    * Handle large datasets in a highly compressed format, manage relationships, perform complex calculations, and display output from different tables into a single-view PivotTable.
    * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
 * Power View
-   * Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting. 
+Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting. 
    * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
    * [Charts and other visualizations in Power View](https://support.microsoft.com/en-us/office/charts-and-other-visualizations-in-power-view-141bd462-9853-4973-ac37-842e8345f51e)
    * [Working with a matrix in Power View](https://support.microsoft.com/en-us/office/working-with-a-matrix-in-power-view-5dfdfec3-1906-401c-8ef7-54f19c18989b)
+   * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
 * Power Map
-   * Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
+Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
 * Power BI
    * [Awesome Power BI](http://bit.ly/AwesomePowerBI) - Resources and References
