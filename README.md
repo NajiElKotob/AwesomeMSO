@@ -6,10 +6,10 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 * [Microsoft Office](#microsoft-office)
 * [Special Tutorials and Resources](#special-tutorials-and-resources)
-* [Word](#word)
-* [Excel](#excel)
+* [Word](#word-)
+* [Excel](#excel-)
 * [Power Suite (Modern Excel)](#Power-Suite-Modern-Excel)
-* [PowerPoint](#PowerPoint)
+* [PowerPoint](#PowerPoint-)
 * [Outlook](#outlook)
 * [Microsoft Project](#microsoft-project)
 
