@@ -32,7 +32,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Flat Icon](https://www.flaticon.com/) - Use more than 1,427,500  Selection icons without crediting the author.
 
 -----
-## Word
+## Word 💙
 * [Official Website](https://products.office.com/en-us/word) - Microsoft
 * [Word templates](https://templates.office.com/en-US/templates-for-Word)
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
@@ -63,7 +63,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [77-726: Word 2016 Expert: Creating Documents for Effective Communication](https://www.microsoft.com/en-us/learning/exam-77-726.aspx)
 
 -----
-## Excel
+## Excel 💚
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 * [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
@@ -120,7 +120,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
 * [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
-### Why Excel 💚
+### Why Excel❓
 * [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
 * [27 Microsoft Excel Experts Predict The Future Of Excel In BI](https://www.investintech.com/resources/blog/archives/5718-experts-predict-the-future-of-excel-in-business-intelligence.html)
 
@@ -152,7 +152,7 @@ Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization to
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
 
 -----
-## PowerPoint
+## PowerPoint 🧡
 * [Official Website](https://products.office.com/en-us/powerpoint) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/powerpoint/) - Free online learning at GCF Global
 
