@@ -37,6 +37,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Word templates](https://templates.office.com/en-US/templates-for-Word)
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
 
+
 ### Top YouTube Channels :tv: (Word)
 * [Microsoft Word 2016](https://www.youtube.com/watch?v=PVH-Sg0mecg&list=PLpQQipWcxwt-CU7fh1_3v-STktoEc0tsL) - GCFLearnFree.org
 * [Word 2016 Tutorial Complete for Professionals and Students](https://www.youtube.com/watch?v=IaiZc0jomz4) - Sali Kaceli
@@ -54,8 +55,10 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Share and coauthor](https://support.office.com/en-us/article/share-a-document-d39f3cd8-0aa0-412f-9a35-1abba926d354?wt.mc_id=otc_word) - Share, Collaborate, Comment and Track.
 * [Mail merge using an Excel spreadsheet](https://support.office.com/en-us/article/Mail-merge-using-an-Excel-spreadsheet-858C7D7F-5CC0-4BA1-9A7B-0A948FA3D7D3)
 
+
 ### Tutorials
 * [Microsoft Word 2013 Tutorial (NC State University)](https://it.chass.ncsu.edu/tutorials/msword/index.php) - The purpose of this tutorial is to provide information on how to use some of the most commonly used features of Microsoft Word 2013 for Windows. 
+
 
 ### Exams (Word)
 * [MO-100: Microsoft Word (Word 2019)](https://www.microsoft.com/en-us/learning/exam-MO-100.aspx)
@@ -81,6 +84,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 * [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+* [Excel Function List](https://exceljet.net/excel-functions) - exceljet.net
 
 ### Charts
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
