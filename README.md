@@ -79,6 +79,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
 * [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
 
+### Help
+* [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
 
 ### Formulas
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
