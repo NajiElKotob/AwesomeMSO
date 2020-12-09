@@ -8,6 +8,7 @@
 • CTRL + . (dot)    ........... Jump inside the corners of the selected area 
 • CTRL + ;          ........... Current Date
 • CTRL + SHIFT + ;  ........... Current Time
+• CTRL + Arrow      ........... Scroll to the start and end of ranges [learn more](https://support.microsoft.com/en-us/office/move-or-scroll-through-a-worksheet-06fc34b8-64bb-4d78-9b62-34656d700f82)
 • F9 (Edit mode)    ........... Formula's value
 • F3                ........... Paste Name and Paste List
 • *, ?, ~           ........... Wildcards; * = any number of char, ? = single char, ~ = escape char. 
