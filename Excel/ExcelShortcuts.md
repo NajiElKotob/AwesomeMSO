@@ -17,4 +17,5 @@
 
 
 ## References 
-[Move or scroll through a worksheet](https://support.microsoft.com/en-us/office/move-or-scroll-through-a-worksheet-06fc34b8-64bb-4d78-9b62-34656d700f82)
+* [Move or scroll through a worksheet](https://support.microsoft.com/en-us/office/move-or-scroll-through-a-worksheet-06fc34b8-64bb-4d78-9b62-34656d700f82)
+* [50 time-saving Excel shortcuts](https://github.com/NajiElKotob/AwesomeMSO/blob/master/Excel/50%20time-saving%20Excel%20shortcuts.xltx)
