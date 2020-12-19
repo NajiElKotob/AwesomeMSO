@@ -151,7 +151,7 @@ Power View is an interactive data exploration, visualization, and presentation e
    * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
 * Power Map
-Microsoft Power Map for Excel is a three-dimensional (3-D) data visualization tool that lets you look at information in new ways. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts.
+Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
 * Power Tools (All)
    * [Excel Power Tools (Western Carolina University)](https://www.wcu.edu/WebFiles/OIPE/NCAIR_2015_ExcelPowerTools.pdf)
