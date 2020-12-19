@@ -150,6 +150,7 @@ Power View is an interactive data exploration, visualization, and presentation e
    * [Working with a matrix in Power View](https://support.microsoft.com/en-us/office/working-with-a-matrix-in-power-view-5dfdfec3-1906-401c-8ef7-54f19c18989b)
    * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
+   * [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.microsoft.com/en-us/office/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-us&rs=en-us&ad=us)
 * Power Map
 Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
