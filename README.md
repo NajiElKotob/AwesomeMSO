@@ -72,8 +72,6 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 * [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
 
-
-
 ### Top YouTube Channels :tv: (Excel)
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
@@ -123,6 +121,9 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 
 ### Performance
 * [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
+
+### Add-ins
+* [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
 
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
