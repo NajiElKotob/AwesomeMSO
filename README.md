@@ -36,7 +36,7 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Official Website](https://products.office.com/en-us/word) - Microsoft
 * [Word templates](https://templates.office.com/en-US/templates-for-Word)
 * [GCF](https://edu.gcfglobal.org/en/topics/word/) - Free online learning at GCF Global
-* [GCF (Arabic)](https://edu.gcfglobal.org/en/tr_ar-excel-2016/) - Excel 2016
+
 
 
 ### Top YouTube Channels :tv: (Word)
@@ -71,7 +71,8 @@ Awesome Microsoft Office Learning Resources, References and Tutorials
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
 * [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
-
+* [GCF (Arabic)](https://edu.gcfglobal.org/en/tr_ar-excel-2016/) - Excel 2016
+* 
 ### Top YouTube Channels :tv: (Excel)
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
