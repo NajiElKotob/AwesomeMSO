@@ -193,6 +193,7 @@ Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is no
 
 #### Tips and Tricks
 * [Export High Resolution Images](https://www.youtube.com/watch?v=TEFJBeZmsCI) - Slide Cow
+* [PowerPoint triggers: Make something happen](https://www.brightcarbon.com/blog/powerpoint-triggers-make-something-happen/) - brightcarbon.com
 
 ### Exams (PowerPoint)
 * [MO-300: Microsoft PowerPoint (PowerPoint 2019)](https://www.microsoft.com/en-us/learning/exam-MO-300.aspx)
